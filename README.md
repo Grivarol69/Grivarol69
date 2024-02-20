@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hola 👋, Mi nombre es Guillermo Rivarola</h1>
 <h3 align="center">un apasionado desarrollador web Fullstack de Argentina</h3>
-<p align="center">¡Hola! Soy Guillermo, un apasionado desarrollador web con experiencia en tecnologías como Next.js, React y Node.js. Con 3 años de experiencia en el desarrollo de aplicaciones web y una trayectoria sólida de 10+ años de desarrollo de sistemas de bases de datos con herramientas ARAD (Clarion, GeneXus), me enorgullece haber contribuido al éxito de numerosos proyectos, enfocándome en la creación de experiencias de usuario excepcionales. Mi enfoque del lado del cliente y mi habilidad para integrar  tecnologías con estructuras de datos eficientes garantizan la entrega de soluciones robustas. ¡Conectemos y exploremos cómo puedo ayudarte a alcanzar tus objetivos tecnológicos!</p>
+<p>¡Hola! Soy Guillermo, un apasionado desarrollador web con experiencia en tecnologías como Next.js, React y Node.js. Con 3 años de experiencia en el desarrollo de aplicaciones web y una trayectoria sólida de 10+ años de desarrollo de sistemas de bases de datos con herramientas ARAD (Clarion, GeneXus), me enorgullece haber contribuido al éxito de numerosos proyectos, enfocándome en la creación de experiencias de usuario excepcionales. Mi enfoque del lado del cliente y mi habilidad para integrar  tecnologías con estructuras de datos eficientes garantizan la entrega de soluciones robustas. ¡Conectemos y exploremos cómo puedo ayudarte a alcanzar tus objetivos tecnológicos!</p>
 
 - 🔭 Actualmente estoy trabajando en el proyecto [Descubriendo Juntxs](https://client-gamma-three-32.vercel.app/)
 - 🔭 Te presento mi proyecto [F1 Drivers](https://github.com/Grivarol69/drivers)
